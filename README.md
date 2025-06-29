@@ -1,25 +1,21 @@
-# 🌈 Gradient Generator
+# 🌈 Gradient Generator – A Flutter Gradient Toolkit
 
-[![Pub Version](https://img.shields.io/pub/v/gradient_generator.svg)](https://pub.dev/packages/gradient_generator)
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/YOUR_GITHUB_USERNAME/gradient_generator)
+`gradient_generator` is a Flutter package designed to help developers create stunning gradients effortlessly using presets, custom colors, moods, animations, and dynamic utilities.
 
-Gradient Generator is a Flutter developer utility that helps you generate and apply linear, radial, and preset gradients with expressive APIs and reusable widgets.
+Whether you want expressive UI backgrounds, animated buttons, themed transitions, or designer-like color harmony — this toolkit makes gradients clean, reusable, and fun to implement.
 
 ---
 
 ## ✨ Features
 
-- 🌐 Define gradients using angle in degrees
-- ⚡ Use gradient presets like `sunset`, `mint`, `cool`
-- 🧩 Reusable `GradientContainer` widget
-- 🎯 Clean, composable API: `GradientX.linear(...)`, `GradientX.radial(...)`
+- ✅ Fluent `GradientX.linear`, `radial`, `fromMood`, and `auto`
+- 🎨 10+ ready-to-use `GradientPresets` for beautiful UIs
+- 🔁 `GradientAnimation` with angle + color animation
+- 🧩 Widgets: `GradientContainer`, `GradientBox`, `GradientPulseButton`, `GradientText`, `GradientIcon`
+- 🔀 `GradientXRandom` for dynamic placeholder styling
+- 🌐 API designed for both precision and creativity
 
 ---
 
-## 🚀 Getting Started
-
-Add this to your `pubspec.yaml`:
-
-```yaml
-dependencies:
-  gradient_generator: ^1.0.0
+📦 View the package on [pub.dev](https://pub.dev/packages/gradient_generator)  
+🛠 Contribute, fork, and star to support the project!
