@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-/// Container with a fully customizable gradient background.
+/// Container with a customizable gradient background.
 ///
 /// Accepts a [Gradient] directly and offers layout options
 /// like [borderRadius], [boxShadow], [border], and more.
