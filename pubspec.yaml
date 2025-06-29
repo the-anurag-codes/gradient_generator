@@ -2,7 +2,7 @@ name: gradient_generator
 description: >
   A developer-friendly Flutter package to generate and apply beautiful gradients
   with a clean Dart API and ready-to-use widgets.
-version: 1.0.0
+version: 1.1.0
 homepage: https://github.com/the-anurag-codes/gradient_generator
 repository: https://github.com/the-anurag-codes/gradient_generator
 issue_tracker: https://github.com/the-anurag-codes/gradient_generator/issues

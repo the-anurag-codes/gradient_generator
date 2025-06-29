@@ -1,8 +1,10 @@
-## [1.0.0] - 2025-06-21
+## [1.1.0] - 2025-06-29
 
-- Initial release of `gradient_generator`.
+- Update version release of `gradient_generator`.
 - Added:
-    - `GradientX.linear()` and `GradientX.radial()` APIs.
-    - `GradientContainer` widget.
-    - Gradient presets: `sunset`, `mint`, `cool`.
-    - Example app and tests.
+  - Added `GradientAnimation` widget with color + angle animation
+  - Added `GradientPulseButton` with animated glow
+  - Added `GradientXRandom.generate()` for dynamic placeholder styling
+  - Added `GradientXExtended.fromMood()` for mood-based gradients
+  - Refactored `GradientContainer` and `GradientBox`
+  - Fixed bugs and improved widget documentation
